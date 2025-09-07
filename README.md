@@ -2,7 +2,7 @@
 
 **Software Engineer** | **MS Information Systems @ Northeastern University**
 
-> Passionate about building scalable, well-engineered applications that customers need 🚀
+> Passionate about building scalable, well-engineered applications that deliver real value to customers. 🚀
 
 ## 🔥 Recent Highlights
 
