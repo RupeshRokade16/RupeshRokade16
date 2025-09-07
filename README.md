@@ -2,7 +2,7 @@
 
 **Software Engineer** | **MS Information Systems @ Northeastern University**
 
-> Passionate about building cloud-native systems, real-time applications, and automating everything 🚀
+> Passionate about building scalable, well-engineered applications that customers need 🚀
 
 ## 🔥 Recent Highlights
 
